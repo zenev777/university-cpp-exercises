@@ -34,7 +34,7 @@ int Main()
 {
     Student Vaniooo(Zhan,Enev,050071000054,5.13);
 
-    coutVaniooo.GetStudent(), grade Vaniooo.GetGrade();
+    cout << Vaniooo.GetStudent(), grade Vaniooo.GetGrade();
 
     return 0;
 }
